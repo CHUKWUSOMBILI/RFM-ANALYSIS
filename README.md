@@ -28,18 +28,18 @@ This project performs (Recency, Frequency,Monetary) analysis to segment customer
 |ID                                |    Unique identifier for each customer                                                                              |
 |Year_Birth                        |     Year the customer was born                                                                                      |
 |Education                         | Level of education attained by the custome                                                                          |
-|Marital_Status                    |    Marital status of the customer                                                                                   |
+|Marital_Status                    | Marital status of the customer                                                                                      |
 |Income                            | Annual income of the customer (in dollars)                                                                          |
 |Kidhome                           | Number of children in the customer's household                                                                      |
 |Teenhome                          | Number of teenagers in the customer's household                                                                     |
 |Dt_Customer                       | Date when the customer was registered                                                                               | 
-|Recency                           |Number of days since the customer last made a purchase                                                               |
+|Recency                           | Number of days since the customer last made a purchase                                                              |
 |MntWines                          | Amount spent on wines in the last 2 years                                                                           |                           
-|MntFruits                         |Amount spent on fruits in the last 2 years                                                                           |
+|MntFruits                         | Amount spent on fruits in the last 2 years                                                                          |
 |MntMeatProducts                   | Amount spent on meat products in the last 2 years                                                                   | 
-|MntFishProduct                    |Amount spent on fish products in the last 2 years                                                                    |
-|MntSweetProduct                   |Amount spent on sweet products in the last 2 years                                                                   |
-|MntGoldProds                      |Amount spent on gold products in the last 2 years                                                                    |
+|MntFishProduct                    | Amount spent on fish products in the last 2 years                                                                   |
+|MntSweetProduct                   | Amount spent on sweet products in the last 2 years                                                                  |
+|MntGoldProds                      | Amount spent on gold products in the last 2 years                                                                   |
 -----------------------------------|---------------------------------------------------------------------------------------------------------------------|
 
 
@@ -145,5 +145,24 @@ This project performs (Recency, Frequency,Monetary) analysis to segment customer
 
 ## CONCLUSION
 
+The RFM analysis successfully segmented our customers into 
+- i. Whale customers
 
+ 
+- ii. Moderate customers
+
+ 
+- iii. Lapsed customers
+
+
+- WHALE CUSTOMERS : Represent our most valuable segment. They purchased frequently, spend significantly, and have done so recently. These customers are crucial to the bussiness's profitability and should be prioritized prioritized for retention thruogh loyalty programs, personalized offers, and premium service experiences.
+
+
+
+- MODERATE CUSTOMERS : Are active and consistent, but contribute less revenue compared to whales. With targeted engagement, such as  tailored promotions, upspelling, or educatinal content about the company offerings.
+
+
+- LAPSED CUSTOMERS : Have not engaged recently, and show low frequency and monetary values. This group requires reactivation strategies, such as win-back campaigns,surveys to understand reasons for churn, and limited-time offers to encourage re-engagement.
+
+Generally, this segmentation allows for more effective marketing resource allocation and enables the business to develop customized strategies for each group. Regular updates to the RFM analysis will ensure  that the customer segmentation remains relevant and aligned with evolving customer behaviours and market dynamics.
 
