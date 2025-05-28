@@ -145,7 +145,9 @@ This project performs (Recency, Frequency,Monetary) analysis to segment customer
 
 ## CONCLUSION
 
-The RFM analysis successfully segmented our customers into 
+The RFM analysis successfully segmented the  customers into 
+
+
 - i. Whale customers
 
  
@@ -155,7 +157,7 @@ The RFM analysis successfully segmented our customers into
 - iii. Lapsed customers
 
 
-- WHALE CUSTOMERS : Represent our most valuable segment. They purchased frequently, spend significantly, and have done so recently. These customers are crucial to the bussiness's profitability and should be prioritized prioritized for retention thruogh loyalty programs, personalized offers, and premium service experiences.
+- WHALE CUSTOMERS : Represent our most valuable segment. They purchased frequently, spend significantly, and have done so recently. These customers are crucial to the bussiness's profitability and should be prioritized for retention thruogh loyalty programs, personalized offers, and premium service experiences.
 
 
 
